@@ -7,7 +7,7 @@ author:
 menu:
 - {name: 'About', url: 'about.html'}
 - {name: 'Writing', url: 'writing.html'}
-- {name: 'Contact', url: 'contact.html'}
+- {name: 'Contact', url: 'menu/contact.html'}
 
 social:
 - {icon: 'github', link: '#'}
